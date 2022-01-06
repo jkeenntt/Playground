@@ -1,0 +1,22 @@
+!DOCTYPE html>
+<html>
+<head>
+  <title>Basic Web Page</title>
+   <meta name="viewport" content="width=device-width,initial-scale=1" >
+
+  <link href='style.css' rel='stylesheet'>
+</head>
+<body>
+  <h1>HELLO EVERYBODYYYYY!</h1>
+  <h2>This is the introduction to my coding journey on html.</h2>
+  <h5>I am a starter coder and I just decided to get into it for the new year after much prodding and suggestions from my family. I really hope to do this so I can make money on the side as I work to becoming everything I want to be in life. Rich and successful. Keep up with my I think this will be a lot of fun!</h5>
+  <h2>About me</h2>
+  <h5>I am a student at the Illustrious <em>North Carolina Central University</em> I didn't start here however. I was first a student at <em>Xavier University of Louisiana</em> where I was a biology major. I had never even thought about coding as a possible career path. However after some up and down years and a few wrenches in a couple plans I have finally decided to give it a chance and I can't wait to see how far I can go!</h5>
+  <h5>On here will just be a place for me to practice any and everything I want when it comes to html. If things get a little unorganized I apologize in advance.</h5>
+  <h2>My socials</h2>
+  <ul>
+    <li><strong>Instagram: </strong>jkeenntt</li>
+    <li><strong>Twitter:</strong> jkeenntt</li>
+  </ul>
+</body
+</html>
